@@ -1,0 +1,16 @@
+D:\GitRepo\AdressBook\AdressBookApp\AdressBookEntity\bin\Debug\net7.0\appsettings.Development.json
+D:\GitRepo\AdressBook\AdressBookApp\AdressBookEntity\bin\Debug\net7.0\appsettings.json
+D:\GitRepo\AdressBook\AdressBookApp\AdressBookEntity\bin\Debug\net7.0\AdressBookEntity.deps.json
+D:\GitRepo\AdressBook\AdressBookApp\AdressBookEntity\bin\Debug\net7.0\AdressBookEntity.runtimeconfig.json
+D:\GitRepo\AdressBook\AdressBookApp\AdressBookEntity\bin\Debug\net7.0\AdressBookEntity.dll
+D:\GitRepo\AdressBook\AdressBookApp\AdressBookEntity\bin\Debug\net7.0\AdressBookEntity.pdb
+D:\GitRepo\AdressBook\AdressBookApp\AdressBookEntity\obj\Debug\net7.0\AdressBookEntity.csproj.AssemblyReference.cache
+D:\GitRepo\AdressBook\AdressBookApp\AdressBookEntity\obj\Debug\net7.0\AdressBookEntity.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitRepo\AdressBook\AdressBookApp\AdressBookEntity\obj\Debug\net7.0\AdressBookEntity.AssemblyInfoInputs.cache
+D:\GitRepo\AdressBook\AdressBookApp\AdressBookEntity\obj\Debug\net7.0\AdressBookEntity.AssemblyInfo.cs
+D:\GitRepo\AdressBook\AdressBookApp\AdressBookEntity\obj\Debug\net7.0\AdressBookEntity.csproj.CoreCompileInputs.cache
+D:\GitRepo\AdressBook\AdressBookApp\AdressBookEntity\obj\Debug\net7.0\AdressBookEntity.dll
+D:\GitRepo\AdressBook\AdressBookApp\AdressBookEntity\obj\Debug\net7.0\refint\AdressBookEntity.dll
+D:\GitRepo\AdressBook\AdressBookApp\AdressBookEntity\obj\Debug\net7.0\AdressBookEntity.pdb
+D:\GitRepo\AdressBook\AdressBookApp\AdressBookEntity\obj\Debug\net7.0\AdressBookEntity.genruntimeconfig.cache
+D:\GitRepo\AdressBook\AdressBookApp\AdressBookEntity\obj\Debug\net7.0\ref\AdressBookEntity.dll

@@ -1,0 +1,29 @@
+<form style="display: flex; flex-direction: column; width: 350px; gap: 12px;">
+    <mat-form-field>
+        <mat-label>Name</mat-label>
+        <input matInput [(ngModel)]="person.name" name="something1" />
+    </mat-form-field>
+    <mat-form-field>
+        <mat-label>Surname</mat-label>
+        <input matInput [(ngModel)]="person.surname" name="something2" />
+    </mat-form-field>
+    <mat-form-field>
+        <mat-label>Company</mat-label>
+        <input matInput [(ngModel)]="person.company" name="something3" />
+    </mat-form-field>
+    <mat-form-field>
+        <mat-label>Email</mat-label>
+        <input matInput [(ngModel)]="person.email" name="something4" />
+    </mat-form-field>
+    <mat-form-field>
+        <mat-label>Address</mat-label>
+        <input matInput [(ngModel)]="person.address" name="something5" />
+    </mat-form-field>
+    <mat-form-field>
+        <mat-label>Phone</mat-label>
+        <input matInput [(ngModel)]="person.phone" name="something6" />
+    </mat-form-field>
+
+    <button mat-raised-button color="primary" (click)="addPerson()">Add</button>
+
+</form>

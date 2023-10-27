@@ -1,0 +1,14 @@
+D:\GitRepo\AdressBook\AdressBookWebApi\AdressBookData\bin\Debug\net7.0\AdressBookData.deps.json
+D:\GitRepo\AdressBook\AdressBookWebApi\AdressBookData\bin\Debug\net7.0\AdressBookData.runtimeconfig.json
+D:\GitRepo\AdressBook\AdressBookWebApi\AdressBookData\bin\Debug\net7.0\AdressBookData.dll
+D:\GitRepo\AdressBook\AdressBookWebApi\AdressBookData\bin\Debug\net7.0\AdressBookData.pdb
+D:\GitRepo\AdressBook\AdressBookWebApi\AdressBookData\obj\Debug\net7.0\AdressBookData.csproj.AssemblyReference.cache
+D:\GitRepo\AdressBook\AdressBookWebApi\AdressBookData\obj\Debug\net7.0\AdressBookData.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitRepo\AdressBook\AdressBookWebApi\AdressBookData\obj\Debug\net7.0\AdressBookData.AssemblyInfoInputs.cache
+D:\GitRepo\AdressBook\AdressBookWebApi\AdressBookData\obj\Debug\net7.0\AdressBookData.AssemblyInfo.cs
+D:\GitRepo\AdressBook\AdressBookWebApi\AdressBookData\obj\Debug\net7.0\AdressBookData.csproj.CoreCompileInputs.cache
+D:\GitRepo\AdressBook\AdressBookWebApi\AdressBookData\obj\Debug\net7.0\AdressBookData.dll
+D:\GitRepo\AdressBook\AdressBookWebApi\AdressBookData\obj\Debug\net7.0\refint\AdressBookData.dll
+D:\GitRepo\AdressBook\AdressBookWebApi\AdressBookData\obj\Debug\net7.0\AdressBookData.pdb
+D:\GitRepo\AdressBook\AdressBookWebApi\AdressBookData\obj\Debug\net7.0\AdressBookData.genruntimeconfig.cache
+D:\GitRepo\AdressBook\AdressBookWebApi\AdressBookData\obj\Debug\net7.0\ref\AdressBookData.dll
